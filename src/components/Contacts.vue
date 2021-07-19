@@ -25,32 +25,28 @@
 
 
 <style scoped>
-.contact {
-  position: relative;
-}
+
+  
 
 
 h2 {
   text-align: left;
 }
 label {
- margin-right: 140px;
- margin-left: 20px;
+  margin-right: 140px;
+  margin-left: 20px;
   text-align: left;
   display: block;
   margin-top: 20px;
 }
 div {
    margin-top: 10px;
-  width: 900px;
-  margin-bottom: 60px;
+   width: 900px;
+   margin-bottom: 60px;
 }
 form {
   z-index: 5;
   height: 1000px;
-  position: absolute;
-  top: 0;
-  left: 100px;
   width: 30%;
   padding: 20px;
   background: gray;
@@ -59,8 +55,6 @@ form {
   justify-content: center;
 }
 input {
-  position: absolute;
-  left: 0;
   margin-left: 40px;
   padding: 10px;
   width: 68%;
