@@ -471,14 +471,8 @@ background: #62B82D;
     
   }
 
-  .house-intro {
-    position: relative;
-  }
+  
 
-  .house-intro .btn {
-    position: absolute;
-    bottom: 100px;
-  }
 
   .house {
     width: 100%;
