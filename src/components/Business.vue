@@ -229,13 +229,12 @@ export default {
   margin-left: 60px;
 }
 .generate  {
-  display: flex;
-  max-width: 1100px;
-  margin: auto;
+   display: flex;
+   max-width: 1100px;
+   margin: auto;
    margin-top: 200px;
    padding: 100px;
-   padding: 160px;
-   
+   padding: 160px;  
 }
 .generate img {
   height: 400px;
@@ -284,7 +283,7 @@ export default {
 
 .btn {
   text-align: center;
- padding-top: 20px;
+  padding-top: 20px;
   display: block;
   background:#62B82D;
   width: 250px;
@@ -304,9 +303,6 @@ export default {
    text-align: left;
    display: flex;
    flex-direction: column;
-   position: relative;
-   top: 600px;
-   left: 300px;
  }
 
 
@@ -319,23 +315,18 @@ export default {
    justify-content: center;
    grid-template-columns: 700px 400px;
    grid-template-rows: 1000px 1000px;
-   margin-top: 20px;
-   
-  
+   margin-top: 20px; 
  }
  
   .problems img {
     height: 400px;
-    margin-top: 20px;
-    
-   
-     
-  }
+    margin-top: 20px;     
+ }
 
   .sqr {
     width: 120px;
-height: 120px;
-background: #62B82D;
+    height: 120px;
+    background: #62B82D;
 
   }
 
@@ -346,15 +337,9 @@ background: #62B82D;
     
   }
 
-  .house-intro {
-    position: relative;
-  }
+ 
 
-  .house-intro .btn {
-    position: absolute;
-    bottom: 600px;
-    left: 300px;
-  }
+  
 
   .house {
     width: 100%;
