@@ -84,18 +84,12 @@ export default {
   width: 100%;
   max-width: 700px;
 }
-#question {
-  margin-top: 1400px;
-  position: relative;
-}
+
 a {
   color: white;
 }
 
-#question .btn {
-  position: absolute;
-  bottom: 200px;
-}
+
 
 
  .qnav {
