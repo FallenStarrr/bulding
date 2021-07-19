@@ -70,22 +70,19 @@ export default {
     display: flex;
     justify-content: center;
     align-items: center;
-    position: absolute;
-width: 100%;
-height: 83px;
-left: 0px;
-top: 0px;
+    width: 100%;
+    height: 83px;
 
-background: #FFFFFF;
+    background: #FFFFFF;
   }
 
   p {
     color: #fff;
     font-family: Montserrat;
-font-size: 36px;
-font-style: normal;
-font-weight: 800;
-text-align: left;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 800;
+    text-align: left;
 
   }
 
